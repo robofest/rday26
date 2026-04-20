@@ -1,1 +1,1 @@
-# Research Day 2026 at Lawrence Technological University. April 24, 2026
+# 2026 Research Day at Lawrence Technological University. April 24, 2026
