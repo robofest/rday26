@@ -1,4 +1,4 @@
-# 2026 Research Day at Lawrence Technological University. April 24, 2026
+# Research Day at Lawrence Technological University. April 24, 2026
 [CJ Chung's Presidential Colloquium Presentation Slides](https://drive.google.com/file/d/1nWdyHQAOvsXIKMTuBnq03Fz8rPGIEFFf/view?usp=sharing)
 ## Posters
 - [Detecting Spills](https://github.com/robofest/rday26/blob/main/257%2C%20Detecting%20Spills.pdf)
